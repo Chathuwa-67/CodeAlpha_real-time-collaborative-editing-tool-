@@ -4,7 +4,7 @@ using yjs web RTC and react to build this  coding interface that a bunch of diff
 This special code editor uses VS code theme using Monaco editor libraries
 
 # Instruction (You can use CMD or VS code terminal)
-1. Navigate to Your Project Directory:
+1. Navigate to Your Project Directory:s
       cd/'Your_directory_name'
 2. Dependency Installation
       -- npm install
